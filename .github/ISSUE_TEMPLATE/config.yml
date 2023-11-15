@@ -2,7 +2,7 @@ blank_issues_enabled: true
 contact_links:
   - name: ShEx test suite
     url: https://github.com/shexSpec/shexTest
-    about: ShEx conformance test suite
+    about: ShEx conformance tests
 
   - name: ShEx language
     url: https://github.com/shexSpec/shex
