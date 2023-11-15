@@ -20,21 +20,11 @@ body:
         - ShEx WebApp
         - ShExMap WebApp
         - Other (specify in text)
-  - type: dropdown
-    id: relation
-    attributes:
-      label: Which FDP are you using?
-      description: Select all that apply if you tried more.
-      multiple: true
-      options:
-        - My local instance
-        - FDP managed by someone else
-        - FDP that I manage
   - type: textarea
     id: version
     attributes:
       label: Version
-      description: Specify the version of shexjs you are using (see the output of `npm list | grep @shexjs`)
+      description: Specify the version of shexjs you are using (`npm list | grep @shexjs` may give you multiple results)
       render: plain text
     validations:
       required: false
