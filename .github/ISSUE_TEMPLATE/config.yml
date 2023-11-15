@@ -1,0 +1,13 @@
+blank_issues_enabled: true
+contact_links:
+  - name: ShEx test suite
+    url: https://github.com/shexSpec/shexTest
+    about: If you think [a ShEx test](https://github.com/shexSpec/shexTest) is wrong, redunant, or missing, please visit the shexTest issues list.
+
+  - name: ShEx language
+    url: https://github.com/shexSpec/shexTest
+    about: To discuss the ShEx language, please see the [ShEx language issues list](https://github.com/shexSpec/shex/issues).
+
+  - name: ShEx specification
+    url: https://github.com/shexSpec/shexTest
+    about: If you have suggestions for improving the [ShEx specification](http://shex.io/shex-semantics/) , please visit the [ShEx spec issues list](https://github.com/shexSpec/spec/issues).
